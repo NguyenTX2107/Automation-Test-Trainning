@@ -7,3 +7,5 @@
 ![download Chrome Driver](imgs/chrome-driver.png)
  - Nhớ down đúng phiên bản ứng với Chrome trên máy. Check version Chrome ở đây
 ![check Chrome version](imgs/chrome-version.png)
+
+## 2. 
